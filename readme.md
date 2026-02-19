@@ -5,7 +5,7 @@
 
 ## Description
 
-HRM is a web based HR management system that covers the needs of SMEs for managing their employees and the recruitment process. The system is built on [Laravel 5.3](https://laravel.com/docs/5.3).
+HRM is a web based HR management system that covers the needs of SMEs for managing their employees and the recruitment process. The system is built on [Laravel].
 
 Available functions:
 
@@ -18,7 +18,7 @@ Available functions:
 
 ## Installation
 
-The system is built on top of Laravel 5.3, so to proceed with the installation you will need a machine that complies with [Laravel's requirements](https://laravel.com/docs/5.3/installation). Follow the steps below to quickly set up the application.
+The system is built on top of Laravel, so to proceed with the installation you will need a machine that complies with [Laravel's requirements](https://laravel.com/docs/). Follow the steps below to quickly set up the application.
 
 1. Dedicate a domain/subdomain to the project and set up the virtual host accordingly.
 2. On the command line, run `composer install` to install all dependencies, and then `composer dump` to autoload the needed files.
@@ -54,7 +54,7 @@ HRM is released under the GPL v3 (or later) license.
 
 ## Support
 
-Please direct any feedback to trajchevska@adevait.com.
+Please direct any feedback to vrac.sebastian@gmail.com.
 
 ## Our supporters
 #### [BrowserStack](https://www.browserstack.com/): Hassle free web-based browser testing 
